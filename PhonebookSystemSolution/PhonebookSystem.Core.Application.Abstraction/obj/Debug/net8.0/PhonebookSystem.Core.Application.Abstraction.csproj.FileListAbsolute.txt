@@ -1,0 +1,11 @@
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\bin\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.deps.json
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\bin\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\bin\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.AssemblyInfoInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.AssemblyInfo.cs
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\refint\PhonebookSystem.Core.Application.Abstraction.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\PhonebookSystem.Core.Application.Abstraction.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Application.Abstraction\obj\Debug\net8.0\ref\PhonebookSystem.Core.Application.Abstraction.dll

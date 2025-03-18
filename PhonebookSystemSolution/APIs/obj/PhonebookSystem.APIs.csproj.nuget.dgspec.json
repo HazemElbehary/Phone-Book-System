@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\PhonebookSystem.APIs.csproj": {}
+  },
+  "projects": {
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\PhonebookSystem.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\PhonebookSystem.APIs.csproj",
+        "projectName": "PhonebookSystem.APIs",
+        "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\PhonebookSystem.APIs.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\PhonebookSystem.Core.Application.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\PhonebookSystem.Core.Application.csproj"
+              },
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj"
+              },
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj",
+        "projectName": "PhonebookSystem.Core.Application.Abstraction",
+        "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\PhonebookSystem.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\PhonebookSystem.Core.Application.csproj",
+        "projectName": "PhonebookSystem.Core.Application",
+        "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\PhonebookSystem.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Application.Abstraction\\PhonebookSystem.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj"
+              },
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj",
+        "projectName": "PhonebookSystem.Core.Domain",
+        "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj",
+        "projectName": "PhonebookSystem.Infrastructure.Persistence",
+        "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\PhonebookSystem.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\PhonebookSystem.Core.Domain\\PhonebookSystem.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

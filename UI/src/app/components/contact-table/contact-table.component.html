@@ -1,0 +1,25 @@
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th>Name</th>
+      <th>Phone Number</th>
+      <th>Email</th>
+      <th *ngIf="userRole === 'admin'">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let contact of filteredContacts">
+      <td>{{ contact.name }}</td>
+      <td>{{ contact.phoneNumber }}</td>
+      <td>{{ contact.email }}</td>
+      <td>
+        <button 
+        *ngIf="userRole === 'admin'"
+        class="btn btn-danger btn-sm" (click)="deleteContact(contact)">
+          Delete
+        </button>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>

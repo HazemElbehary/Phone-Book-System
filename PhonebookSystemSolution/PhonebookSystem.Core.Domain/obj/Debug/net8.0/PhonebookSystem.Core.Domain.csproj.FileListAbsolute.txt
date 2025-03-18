@@ -1,0 +1,11 @@
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\bin\Debug\net8.0\PhonebookSystem.Core.Domain.deps.json
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\bin\Debug\net8.0\PhonebookSystem.Core.Domain.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\bin\Debug\net8.0\PhonebookSystem.Core.Domain.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.AssemblyInfoInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.AssemblyInfo.cs
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\refint\PhonebookSystem.Core.Domain.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\PhonebookSystem.Core.Domain.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Core.Domain\obj\Debug\net8.0\ref\PhonebookSystem.Core.Domain.dll

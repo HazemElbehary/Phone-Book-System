@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhonebookSystem.Core.Application.Abstraction\PhonebookSystem.Core.Application.Abstraction.csproj" />
+    <ProjectReference Include="..\PhonebookSystem.Core.Application\PhonebookSystem.Core.Application.csproj" />
+    <ProjectReference Include="..\PhonebookSystem.Core.Domain\PhonebookSystem.Core.Domain.csproj" />
+    <ProjectReference Include="..\PhonebookSystem.Infrastructure.Persistence\PhonebookSystem.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

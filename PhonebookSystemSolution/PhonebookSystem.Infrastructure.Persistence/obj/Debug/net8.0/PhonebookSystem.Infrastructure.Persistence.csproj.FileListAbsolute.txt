@@ -1,0 +1,17 @@
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.deps.json
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.runtimeconfig.json
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Core.Domain.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\bin\Debug\net8.0\PhonebookSystem.Core.Domain.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.csproj.AssemblyReference.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\Phoneboo.E6752A23.Up2Date
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\refint\PhonebookSystem.Infrastructure.Persistence.dll
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.pdb
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\PhonebookSystem.Infrastructure.Persistence.genruntimeconfig.cache
+D:\Route\Projects\PhonebookSystem\PhonebookSystemSolution\PhonebookSystem.Infrastructure.Persistence\obj\Debug\net8.0\ref\PhonebookSystem.Infrastructure.Persistence.dll
