@@ -46,8 +46,7 @@
               "RelativeToolTip": "APIs\\Program.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAswGcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T10:58:43.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T10:58:43.661Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "APIs\\Controllers\\ContactsController.cs",
               "ToolTip": "D:\\Route\\Projects\\PhonebookSystem\\PhonebookSystemSolution\\APIs\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "APIs\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T06:53:50.505Z",
               "EditorCaption": ""
